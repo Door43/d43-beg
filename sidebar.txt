@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[beg:home|Door43 (beg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-beg|d43-beg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-beg/archive/master.zip|d43-beg.zip]]
+
+**Recent Changes**
+{{changes>ns = beg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/beg|Ethnologue data]]
+
